@@ -2,6 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="949dd59a-19a3-4d1e-9ba5-00bff978b1a2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Day4/AverageOfArrayElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day4/LinearSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day4/MaximumElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day4/MinimumElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day4/PrintArrayElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day4/ReverseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day4/SecondLargestElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day4/SumofArrayElements.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,6 +40,7 @@
     "Application.AdditionMethod.executor": "Run",
     "Application.AreaCalculator.executor": "Run",
     "Application.AreaMethodOverloading.executor": "Run",
+    "Application.AverageOfArrayElements.executor": "Debug",
     "Application.CountDigits.executor": "Run",
     "Application.EvenOROdd.executor": "Run",
     "Application.EvenOrOddMethod.executor": "Run",
@@ -41,21 +50,28 @@
     "Application.LargestOf2Numbers.executor": "Run",
     "Application.LargestOf3Numbers.executor": "Run",
     "Application.Largestof2Numbers.executor": "Run",
+    "Application.LinearSearch.executor": "Run",
+    "Application.MaximumElement.executor": "Run",
     "Application.MethodOverloading.executor": "Run",
+    "Application.MinimumElement.executor": "Run",
     "Application.MultiplicationTable.executor": "Run",
     "Application.NumberTriangle.executor": "Run",
     "Application.Palindrome.executor": "Run",
     "Application.PositiveOrNegitiveOrZero.executor": "Run",
     "Application.Practice.executor": "Run",
     "Application.PrimeNumberUsingMethod.executor": "Debug",
+    "Application.PrintArrayElements.executor": "Run",
+    "Application.ReverseArray.executor": "Run",
     "Application.ReverseTrianglePattern.executor": "Run",
     "Application.Reverse_a_Number.executor": "Run",
     "Application.RightTriangle.executor": "Run",
     "Application.RightTrianglePattern.executor": "Run",
+    "Application.SecondLargestElement.executor": "Debug",
     "Application.SquareMethod.executor": "Run",
     "Application.SquarePattern.executor": "Run",
     "Application.SumOfDigits.executor": "Run",
     "Application.Sum_Of_First_N_Numbers.executor": "Run",
+    "Application.SumofArrayElements.executor": "Run",
     "Application.VoteEligibility.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
