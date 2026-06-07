@@ -2,15 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="949dd59a-19a3-4d1e-9ba5-00bff978b1a2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Day4/AverageOfArrayElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day4/LinearSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day4/MaximumElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day4/MinimumElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day4/PrintArrayElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day4/ReverseArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day4/SecondLargestElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day4/SumofArrayElements.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day4/LinearSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day4/LinearSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day6/ColumnSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day6/ColumnSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day6/LargestElementinMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day6/LargestElementinMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day6/PrintMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day6/PrintMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day6/RowSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day6/RowSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day6/SumofMatrixElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day6/SumofMatrixElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MiniProject1/StudentManagementSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MiniProject1/StudentManagementSystem.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,15 +37,20 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AdditionMethod.executor": "Run",
+    "Application.AnagramCheck.executor": "Run",
     "Application.AreaCalculator.executor": "Run",
     "Application.AreaMethodOverloading.executor": "Run",
     "Application.AverageOfArrayElements.executor": "Debug",
+    "Application.CharacterFrequency.executor": "Run",
+    "Application.ColumnSum.executor": "Run",
     "Application.CountDigits.executor": "Run",
+    "Application.CountVowels.executor": "Run",
     "Application.EvenOROdd.executor": "Run",
     "Application.EvenOrOddMethod.executor": "Run",
     "Application.FactorialUsingMethod.executor": "Run",
     "Application.FibonacciUsingMethod.executor": "Debug",
     "Application.GreetingMethod.executor": "Run",
+    "Application.LargestElementinMatrix.executor": "Run",
     "Application.LargestOf2Numbers.executor": "Run",
     "Application.LargestOf3Numbers.executor": "Run",
     "Application.Largestof2Numbers.executor": "Run",
@@ -57,21 +61,27 @@
     "Application.MultiplicationTable.executor": "Run",
     "Application.NumberTriangle.executor": "Run",
     "Application.Palindrome.executor": "Run",
+    "Application.PalindromeString.executor": "Run",
     "Application.PositiveOrNegitiveOrZero.executor": "Run",
     "Application.Practice.executor": "Run",
     "Application.PrimeNumberUsingMethod.executor": "Debug",
     "Application.PrintArrayElements.executor": "Run",
+    "Application.PrintMatrix.executor": "Run",
     "Application.ReverseArray.executor": "Run",
+    "Application.ReverseString.executor": "Run",
     "Application.ReverseTrianglePattern.executor": "Run",
     "Application.Reverse_a_Number.executor": "Run",
     "Application.RightTriangle.executor": "Run",
     "Application.RightTrianglePattern.executor": "Run",
+    "Application.RowSum.executor": "Run",
     "Application.SecondLargestElement.executor": "Debug",
     "Application.SquareMethod.executor": "Run",
     "Application.SquarePattern.executor": "Run",
+    "Application.StudentManagementSystem.executor": "Run",
     "Application.SumOfDigits.executor": "Run",
     "Application.Sum_Of_First_N_Numbers.executor": "Run",
     "Application.SumofArrayElements.executor": "Run",
+    "Application.SumofMatrixElements.executor": "Run",
     "Application.VoteEligibility.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",

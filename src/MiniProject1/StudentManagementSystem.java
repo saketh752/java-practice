@@ -2,6 +2,7 @@ package MiniProject1;
 import java.util.Scanner;
 public class StudentManagementSystem {
     public static void main(String[] args) {
+        System.out.println("===== Student Management System =====");
         Scanner sc = new Scanner(System.in);
         String names[] = new String[3];
         int marks[] = new int[3];
