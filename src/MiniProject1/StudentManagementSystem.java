@@ -9,7 +9,6 @@ public class StudentManagementSystem {
         for (int i = 0; i < names.length; i++) {
             System.out.println("Enter Student name: ");
             names[i] = sc.next();
-
             System.out.println("Enter Student marks: ");
             marks[i] = sc.nextInt();
         }
