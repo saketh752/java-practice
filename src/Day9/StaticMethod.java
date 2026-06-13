@@ -1,0 +1,11 @@
+package Day9;
+class Calculator{
+    static int add(int a, int b){
+        return a + b;
+    }
+}
+public class StaticMethod {
+    public static void main(String[] args) {
+        System.out.println(Calculator.add(10, 20));
+    }
+}
